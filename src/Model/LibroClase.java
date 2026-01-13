@@ -43,6 +43,7 @@ public class LibroClase {
         }
     }
 
+
     @Override
     public String toString() {
         return "LibroClase{" +
