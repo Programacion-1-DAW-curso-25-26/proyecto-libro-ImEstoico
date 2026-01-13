@@ -2,7 +2,7 @@ package Model;
 
 public class Personaje {
 
-
+ //PRUEBA
     private String nombre;
     private int vida;
     private int nivel;
