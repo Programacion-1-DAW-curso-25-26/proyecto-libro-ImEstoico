@@ -2,7 +2,7 @@ package Model;
 
 public class Personaje {
 
- //PRUEBA
+ // ESTO ES UNA PRUEBA PARA SI FUNCIONA EL PUSH
     private String nombre;
     private int vida;
     private int nivel;
